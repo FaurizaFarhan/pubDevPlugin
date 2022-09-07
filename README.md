@@ -1,6 +1,6 @@
 Praktikum 
 
-! ss tugas (images/ss.png)
+![ss] (images/ss.png)
 
 Pertanyaan 
 1. jelaskan maksud dari langkah 2!
